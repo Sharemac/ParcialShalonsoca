@@ -11,8 +11,6 @@ public class Parcial {
       int usuario=0;
         System.out.println("Bienvenido a WebGallery");
         System.out.println("Presione 1 para artista y 2 para comprador");
-        
-        
      
       PrintStream output = new PrintStream(new File("WebGallery.txt"));
       output.println();
