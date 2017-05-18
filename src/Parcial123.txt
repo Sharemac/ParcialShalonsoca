@@ -1,0 +1,17 @@
+1.
+a. Falso
+b. Verdadero
+c. Falso una interface solo hereda de otra interface
+d. Verdadero una clase abstracta puede extender de una interface
+
+2. Una clase abstracta es aquella que sirve para definir algo general
+ que luego kas clases hijas de esta puedan definir especificamente esta 
+ clase debe al menos tener un metodo que no ha sido especificado 
+ porque se hereda, un metodo abstract, esa es su diferencia de una clase 
+ normal, y a diferencia de la interface la clase abstrac si puede tener 
+ otros metodos los cueles implementa.
+3.
+a.valido
+b.valido
+c.valido
+d.invalido
